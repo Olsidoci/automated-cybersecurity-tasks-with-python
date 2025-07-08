@@ -1,6 +1,6 @@
 # 🛡️ Python Security Analyst Lab
 
-This project is a beginner-friendly security lab using Python inside a Jupyter Notebook. It introduces fundamental concepts like:
+This project is a beginner-friendly security lab using Python inside a Google Colab. It introduces fundamental concepts like:
 
 - Writing Markdown and Python code in notebook cells
 - Using `print()` for output
