@@ -18,6 +18,6 @@ This project is a beginner-friendly security lab using Python inside a Google Co
 ## 🧠 Learning Outcome
 
 You'll understand:
-- How to use Jupyter notebooks
+- How to use Google Colab
 - Basics of Python syntax and output
 - Commenting and documentation habits
